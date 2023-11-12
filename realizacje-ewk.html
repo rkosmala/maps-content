@@ -14,16 +14,12 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.1.0/MarkerCluster.Default.css"/>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.1.0/leaflet.markercluster.js"></script>
 
-    <!-- Include Font Awesome -->
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
-
     <!-- Include Vue.js -->
     <script src="https://cdn.jsdelivr.net/npm/vue@2.6.14/dist/vue.js"></script>
 
     <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.0/css/all.min.css"/>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
 
     <!-- Custom CSS -->
     <style>
@@ -32,20 +28,20 @@
             display: none;
         }
 
-        /* Style for the content on screens with a width less than 600px (e.g., mobile devices) */
-        @media (max-width: 600px) and (orientation: portrait) {
+        /* Style for the content on screens with a width less than 768px (e.g., mobile devices) */
+        @media (max-width: 768px) and (orientation: portrait) {
             .content-mobile-vertical {
                 display: block;
             }
         }
 
-        @media (max-width: 600px) and (orientation: landscape) {
+        @media (max-width: 768px) and (orientation: landscape) {
             .content-mobile-horizontal {
                 display: block;
             }
         }
 
-        /* Style for the content on screens with a width greater than 600px (e.g., desktop) */
+        /* Style for the content on screens with a width greater than 768px (e.g., desktop) */
         @media (min-width: 601px) {
             .content-desktop {
                 display: block;
@@ -58,10 +54,10 @@
             color: black;
         }
 
-        /* Style for the paragraph on screens with a width less than 600px (e.g., mobile devices) */
-        @media (max-width: 600px) {
+        /* Style for the paragraph on screens with a width less than 768px (e.g., mobile devices) */
+        @media (max-width: 768px) {
             .paragraph {
-                font-size: 9px;
+                font-size: 10px;
             }
         }
         /* Remove margin and padding from body and html elements */
@@ -94,7 +90,7 @@
             max-height: 70vh;
         }
 
-        @media (max-width: 600px) and (orientation: landscape) {
+        @media (max-width: 768px) and (orientation: landscape) {
             .popup-content {
                 min-width: 80vw;
             }
@@ -105,16 +101,17 @@
             object-fit: contain;
         }
 
-        @media (max-width: 600px) and (orientation: landscape) {
+        @media (max-width: 768px) and (orientation: landscape) {
             #popup-image {
-                width: 20%;
+                max-height: 30vh
             }
         }
 
         #popup-title {
+            object-fit: contain;
         }
 
-        @media (max-width: 600px) and (orientation: landscape) {
+        @media (max-width: 768px) and (orientation: landscape) {
             .content-mobile-horizontal {
                 font-size: 10px;
                 margin-bottom: 0px;
@@ -123,8 +120,9 @@
 
         #popup-subtitle {
             margin-top: 0px;
+            object-fit: contain;
         }
-        @media (max-width: 600px) and (orientation: landscape) {
+        @media (max-width: 768px) and (orientation: landscape) {
             #popup-subtitle {
                 margin-top: 0px;
                 margin-bottom: 4px;
