@@ -658,6 +658,15 @@
     },
     {
         "coordinates": [
+            52.1496199,
+            21.0467634
+        ],
+        "description": "<b style=\"color: black; font-size: 14px;\">Multikino Ursyn\u00f3w</b><br><i style=\"color: gray; font-size: 12px;\">Projekt sal kinowych</i><p style=\"color: black; font-size: 12px; margin-top: 0;\"></p>",
+        "faIcon": "video",
+        "iconColor": "green"
+    },
+    {
+        "coordinates": [
             52.2545745,
             21.0253925
         ],
@@ -1635,15 +1644,6 @@
         ],
         "description": "<b style=\"color: black; font-size: 14px;\">Zesp\u00f3\u0142 Szk\u00f3\u0142 nr 59</b><br><i style=\"color: gray; font-size: 12px;\">Projekt sali gimnastycznej</i><p style=\"color: black; font-size: 12px; margin-top: 0;\"></p>",
         "faIcon": "volleyball",
-        "iconColor": "green"
-    },
-    {
-        "coordinates": [
-            52.1496199,
-            21.0467634
-        ],
-        "description": "<b style=\"color: black; font-size: 14px;\">Multikino Ursyn\u00f3w</b><br><i style=\"color: gray; font-size: 12px;\">Projekt sal kinowych</i><p style=\"color: black; font-size: 12px; margin-top: 0;\"></p>",
-        "faIcon": "video",
         "iconColor": "green"
     }
 ]
