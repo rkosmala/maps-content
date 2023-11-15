@@ -73,6 +73,15 @@
     },
     {
         "coordinates": [
+            50.5398718,
+            22.7210244
+        ],
+        "description": "<b style=\"color: black; font-size: 14px;\">Bi\u0142gorajskie Centrum Kultury</b><br><i style=\"color: gray; font-size: 12px;\">Projekt Sali Widowiskowej i Sali Kameralnej</i><p style=\"color: black; font-size: 12px; margin-top: 0;\">Okres: 2006-2012 (otwarcie 2012)</p>",
+        "faIcon": "music",
+        "iconColor": "green"
+    },
+    {
+        "coordinates": [
             49.817259500000006,
             19.049469783581756
         ],
@@ -96,6 +105,15 @@
         ],
         "description": "<b style=\"color: black; font-size: 14px;\">Centrum Dziedzictwa Kulturowego</b><br><i style=\"color: gray; font-size: 12px;\">Sale widowiskowa i audytoryjna Domu Kultury</i><p style=\"color: black; font-size: 12px; margin-top: 0;\">Okres: 2016-2018 (otwarcie 2018)</p>",
         "faIcon": "masks-theater",
+        "iconColor": "green"
+    },
+    {
+        "coordinates": [
+            53.778422,
+            20.4801193
+        ],
+        "description": "<b style=\"color: black; font-size: 14px;\">Centrum Edukacji i Inicjtyw Kulturalnych (dawniej Regionalny O\u015brodek Kultury)</b><br><i style=\"color: gray; font-size: 12px;\">Kino i teatr</i><p style=\"color: black; font-size: 12px; margin-top: 0;\">Okres: 1995-1996 (otwarcie 1996)</p>",
+        "faIcon": "music",
         "iconColor": "green"
     },
     {
@@ -124,6 +142,15 @@
         "description": "<b style=\"color: black; font-size: 14px;\">Centrum Kulturalno Kongresowe Jordanki</b><br><i style=\"color: gray; font-size: 12px;\">Sala wielofunkcyjna</i><p style=\"color: black; font-size: 12px; margin-top: 0;\">Otwarcie: 12 grudnia 2015 roku</p>",
         "faIcon": "music",
         "iconColor": "orange"
+    },
+    {
+        "coordinates": [
+            50.43302,
+            21.28065
+        ],
+        "description": "<b style=\"color: black; font-size: 14px;\">Centrum Kultury i Sztuki \u2013 Kino \u201ePEGAZ\u201d</b><br><i style=\"color: gray; font-size: 12px;\">Projekt przebudowy sal Widowiskowej i Baletowej</i><p style=\"color: black; font-size: 12px; margin-top: 0;\">Okres: 2008-2010</p>",
+        "faIcon": "music",
+        "iconColor": "green"
     },
     {
         "coordinates": [
@@ -231,6 +258,15 @@
         ],
         "description": "<b style=\"color: black; font-size: 14px;\">DreamSound Studio</b><br><i style=\"color: gray; font-size: 12px;\">Projekt studi\u00f3w do postprodukcji d\u017awi\u0119ku w systemach Dolby - sale Dream Theatre i Londyn</i><p style=\"color: black; font-size: 12px; margin-top: 0;\">Okres: 2013; 2016 (otwarcie 2013; 2016)</p>",
         "faIcon": "microphone-lines",
+        "iconColor": "green"
+    },
+    {
+        "coordinates": [
+            52.2210561,
+            20.9648266
+        ],
+        "description": "<b style=\"color: black; font-size: 14px;\">Dworzec PKP Warszawa Zachodnia</b><br><i style=\"color: gray; font-size: 12px;\">Infrastruktura pasa\u017cerska na stacji Warszawa Zachodnia - wytyczne ochrony przed ha\u0142asem do projektu architektoniczno-funkcjonalnego</i><p style=\"color: black; font-size: 12px; margin-top: 0;\">Okres: 2017</p>",
+        "faIcon": "music",
         "iconColor": "green"
     },
     {
@@ -370,6 +406,15 @@
     },
     {
         "coordinates": [
+            52.2393277,
+            21.0115229
+        ],
+        "description": "<b style=\"color: black; font-size: 14px;\">Galeria Zach\u0119ta</b><br><i style=\"color: gray; font-size: 12px;\">Projekt sali wielofunkcyjnej</i><p style=\"color: black; font-size: 12px; margin-top: 0;\"></p>",
+        "faIcon": "music",
+        "iconColor": "green"
+    },
+    {
+        "coordinates": [
             50.36316695,
             20.88756881382576
         ],
@@ -415,8 +460,8 @@
     },
     {
         "coordinates": [
-            54.35603315,
-            18.651237012991707
+            52.2237444,
+            20.988751708317096
         ],
         "description": "<b style=\"color: black; font-size: 14px;\">Hotel Jan III Sobieski</b><br><i style=\"color: gray; font-size: 12px;\">Zesp\u00f3\u0142 sal wielofunkcyjnych</i><p style=\"color: black; font-size: 12px; margin-top: 0;\"></p>",
         "faIcon": "bed",
@@ -598,7 +643,7 @@
             54.209268,
             20.0979034
         ],
-        "description": "<b style=\"color: black; font-size: 14px;\">Misyjne Seminarium Duchowne Ksi\u0119\u017cy Werbist\u00f3w w Pieni\u0119\u017cnie</b><br><i style=\"color: gray; font-size: 12px;\">Rozbudowa, przebudowa, remont oraz zmiana sposobu u\u017cytkowania cz\u0119\u015bci istniej\u0105cego budynku Misyjnego Seminarium Duchownego</i><p style=\"color: black; font-size: 12px; margin-top: 0;\">Okres: 2016</p>",
+        "description": "<b style=\"color: black; font-size: 14px;\">Misyjne Seminarium Duchowne Ksi\u0119\u017cy Werbist\u00f3w w Pieni\u0119\u017cnie</b><br><i style=\"color: gray; font-size: 12px;\">Rozbudowa, przebudowa, remont oraz zmiana sposobu u\u017cytkowania cz\u0119\u015bci istniej\u0105cego budynku Misyjnego Seminarium Duchownego</i><p style=\"color: black; font-size: 12px; margin-top: 0;\">Okres: 2016 (otwarcie 2019)</p>",
         "faIcon": "museum",
         "iconColor": "green"
     },
@@ -676,6 +721,15 @@
     },
     {
         "coordinates": [
+            50.5208575,
+            22.1450506
+        ],
+        "description": "<b style=\"color: black; font-size: 14px;\">Ni\u017ca\u0144skie Centrum Kultury</b><br><i style=\"color: gray; font-size: 12px;\">Projekt Sali Widowiskowej</i><p style=\"color: black; font-size: 12px; margin-top: 0;\">Okres: 2014-2018 (otwarcie 2018)</p>",
+        "faIcon": "music",
+        "iconColor": "green"
+    },
+    {
+        "coordinates": [
             54.35740385,
             18.64974962745911
         ],
@@ -697,7 +751,7 @@
             53.7776003,
             20.4909301
         ],
-        "description": "<b style=\"color: black; font-size: 14px;\">Olszty\u0144ski Teatr Lalek</b><br><i style=\"color: gray; font-size: 12px;\">Projekt autorski</i><p style=\"color: black; font-size: 12px; margin-top: 0;\"></p>",
+        "description": "<b style=\"color: black; font-size: 14px;\">Olszty\u0144ski Teatr Lalek</b><br><i style=\"color: gray; font-size: 12px;\">Projekt przebudowy teatru</i><p style=\"color: black; font-size: 12px; margin-top: 0;\">Okres: 1990-1992</p>",
         "faIcon": "masks-theater",
         "iconColor": "green"
     },
@@ -760,7 +814,7 @@
             52.2544364,
             20.920773052366386
         ],
-        "description": "<b style=\"color: black; font-size: 14px;\">O\u015brodek \"Michael\"</b><br><i style=\"color: gray; font-size: 12px;\">Sala widowiskowa</i><p style=\"color: black; font-size: 12px; margin-top: 0;\"></p>",
+        "description": "<b style=\"color: black; font-size: 14px;\">O\u015brodek \"Michael\"</b><br><i style=\"color: gray; font-size: 12px;\">Sala widowiskowa</i><p style=\"color: black; font-size: 12px; margin-top: 0;\">Okres: 1997-2005</p>",
         "faIcon": "music",
         "iconColor": "green"
     },
@@ -775,11 +829,29 @@
     },
     {
         "coordinates": [
+            52.2614898,
+            21.03956142327908
+        ],
+        "description": "<b style=\"color: black; font-size: 14px;\">Pa\u0142acyk Konopackiego</b><br><i style=\"color: gray; font-size: 12px;\">Projekt akustyki sali wielofunkcyjnej</i><p style=\"color: black; font-size: 12px; margin-top: 0;\">Okres: 2019</p>",
+        "faIcon": "music",
+        "iconColor": "green"
+    },
+    {
+        "coordinates": [
             50.156993400000005,
             23.121832683514874
         ],
         "description": "<b style=\"color: black; font-size: 14px;\">Pa\u0144stwowa Szko\u0142a Muzyczna</b><br><i style=\"color: gray; font-size: 12px;\">Projekt sali koncertowej</i><p style=\"color: black; font-size: 12px; margin-top: 0;\"></p>",
         "faIcon": "graduation-cap",
+        "iconColor": "green"
+    },
+    {
+        "coordinates": [
+            49.9464271,
+            18.5713903
+        ],
+        "description": "<b style=\"color: black; font-size: 14px;\">Pa\u0144stwowa Szko\u0142a Muzyczna I i II st. im.&nbsp;prof. J\u00f3zefa \u015awidra</b><br><i style=\"color: gray; font-size: 12px;\">Sala koncertowa</i><p style=\"color: black; font-size: 12px; margin-top: 0;\"></p>",
+        "faIcon": "music",
         "iconColor": "green"
     },
     {
@@ -901,15 +973,6 @@
     },
     {
         "coordinates": [
-            52.2210561,
-            20.9648266
-        ],
-        "description": "<b style=\"color: black; font-size: 14px;\">Dworzec PKP Warszawa Zachodnia</b><br><i style=\"color: gray; font-size: 12px;\">Infrastruktura pasa\u017cerska na stacji Warszawa Zachodnia - wytyczne ochrony przed ha\u0142asem do projektu architektoniczno-funkcjonalnego</i><p style=\"color: black; font-size: 12px; margin-top: 0;\">Okres: 2017</p>",
-        "faIcon": "music",
-        "iconColor": "green"
-    },
-    {
-        "coordinates": [
             50.6414978,
             20.2840679
         ],
@@ -985,7 +1048,7 @@
             52.2295328,
             21.018368116593507
         ],
-        "description": "<b style=\"color: black; font-size: 14px;\">Radio ZET</b><br><i style=\"color: gray; font-size: 12px;\">Projekt sali Studio ZET</i><p style=\"color: black; font-size: 12px; margin-top: 0;\"></p>",
+        "description": "<b style=\"color: black; font-size: 14px;\">Radio ZET</b><br><i style=\"color: gray; font-size: 12px;\">Projekt sal studyjnych R1, S1, R2 i S2</i><p style=\"color: black; font-size: 12px; margin-top: 0;\">Okres: 2000-2001</p>",
         "faIcon": "microphone-lines",
         "iconColor": "green"
     },
@@ -1000,28 +1063,10 @@
     },
     {
         "coordinates": [
-            50.8047213,
-            19.10847400753859
-        ],
-        "description": "<b style=\"color: black; font-size: 14px;\">Regionalny O\u015brodek Kultury</b><br><i style=\"color: gray; font-size: 12px;\">Kino i teatr</i><p style=\"color: black; font-size: 12px; margin-top: 0;\">Okres: 1995-1996</p>",
-        "faIcon": "music",
-        "iconColor": "green"
-    },
-    {
-        "coordinates": [
-            49.9464271,
-            18.5713903
-        ],
-        "description": "<b style=\"color: black; font-size: 14px;\">Pa\u0144stwowa Szko\u0142a Muzyczna I i II st. im.&nbsp;prof. J\u00f3zefa \u015awidra</b><br><i style=\"color: gray; font-size: 12px;\">Sala koncertowa</i><p style=\"color: black; font-size: 12px; margin-top: 0;\"></p>",
-        "faIcon": "music",
-        "iconColor": "green"
-    },
-    {
-        "coordinates": [
             52.54788365,
             19.693072700000002
         ],
-        "description": "<b style=\"color: black; font-size: 14px;\">Sala Koncertowa w P\u0142ocku</b><br><i style=\"color: gray; font-size: 12px;\">Projekt sali koncertowej</i><p style=\"color: black; font-size: 12px; margin-top: 0;\">Okres: 2023</p>",
+        "description": "<b style=\"color: black; font-size: 14px;\">Sala Koncertowa</b><br><i style=\"color: gray; font-size: 12px;\">Projekt sali koncertowej</i><p style=\"color: black; font-size: 12px; margin-top: 0;\">Okres: 2023</p>",
         "faIcon": "music",
         "iconColor": "green"
     },
@@ -1036,19 +1081,10 @@
     },
     {
         "coordinates": [
-            52.2614898,
-            21.03956142327908
-        ],
-        "description": "<b style=\"color: black; font-size: 14px;\">Pa\u0142acyk Konopackiego</b><br><i style=\"color: gray; font-size: 12px;\">Projekt akustyki sali wielofunkcyjnej</i><p style=\"color: black; font-size: 12px; margin-top: 0;\">Okres: 2019</p>",
-        "faIcon": "music",
-        "iconColor": "green"
-    },
-    {
-        "coordinates": [
             50.46185835,
             20.719242006751823
         ],
-        "description": "<b style=\"color: black; font-size: 14px;\">Samorz\u0105dowe Centrum Kultury</b><br><i style=\"color: gray; font-size: 12px;\">Projekt autorski</i><p style=\"color: black; font-size: 12px; margin-top: 0;\"></p>",
+        "description": "<b style=\"color: black; font-size: 14px;\">Samorz\u0105dowe Centrum Kultury</b><br><i style=\"color: gray; font-size: 12px;\">Projekt przebudowy Sali Widowiskowej</i><p style=\"color: black; font-size: 12px; margin-top: 0;\">Okres: 2002-2006 (otwarcie 2006)</p>",
         "faIcon": "music",
         "iconColor": "green"
     },
@@ -1066,7 +1102,7 @@
             49.563706,
             22.2041682
         ],
-        "description": "<b style=\"color: black; font-size: 14px;\">Sanocki Dom Kultury</b><br><i style=\"color: gray; font-size: 12px;\">Opera, teatr, kino</i><p style=\"color: black; font-size: 12px; margin-top: 0;\"></p>",
+        "description": "<b style=\"color: black; font-size: 14px;\">Sanocki Dom Kultury</b><br><i style=\"color: gray; font-size: 12px;\">Opera, teatr, kino</i><p style=\"color: black; font-size: 12px; margin-top: 0;\">Okres: 1996-1997 (otwarcie 2011)</p>",
         "faIcon": "music",
         "iconColor": "green"
     },
@@ -1144,6 +1180,24 @@
     },
     {
         "coordinates": [
+            50.0377946,
+            22.0066754
+        ],
+        "description": "<b style=\"color: black; font-size: 14px;\">Teatr \"Maska\"</b><br><i style=\"color: gray; font-size: 12px;\">Projekt przebudowy teatru</i><p style=\"color: black; font-size: 12px; margin-top: 0;\">Okres: 1993-1999</p>",
+        "faIcon": "music",
+        "iconColor": "green"
+    },
+    {
+        "coordinates": [
+            52.2469502,
+            21.0483406
+        ],
+        "description": "<b style=\"color: black; font-size: 14px;\">Teatr \"Powszechny\"</b><br><i style=\"color: gray; font-size: 12px;\">Projekt przebudowy sal \"200\" i \"100\"</i><p style=\"color: black; font-size: 12px; margin-top: 0;\">Okres: 2008-2010</p>",
+        "faIcon": "masks-theater",
+        "iconColor": "green"
+    },
+    {
+        "coordinates": [
             52.2313293,
             21.0074971
         ],
@@ -1162,11 +1216,29 @@
     },
     {
         "coordinates": [
+            53.78012409999999,
+            20.479788
+        ],
+        "description": "<b style=\"color: black; font-size: 14px;\">Teatr i. Stefana Jaracza</b><br><i style=\"color: gray; font-size: 12px;\">Projekt Sal: Widowiskowej, Kameralnej i \"Margines\"</i><p style=\"color: black; font-size: 12px; margin-top: 0;\">Okres: 2006-2013</p>",
+        "faIcon": "music",
+        "iconColor": "green"
+    },
+    {
+        "coordinates": [
             50.0393999,
             21.9994927
         ],
         "description": "<b style=\"color: black; font-size: 14px;\">Teatr im.&nbsp;Wandy Siemaszkowej</b><br><i style=\"color: gray; font-size: 12px;\">Budowa budynku teatru </i><p style=\"color: black; font-size: 12px; margin-top: 0;\">Okres: 2022 - w trakcie projekt wykonawczy</p>",
         "faIcon": "masks-theater",
+        "iconColor": "green"
+    },
+    {
+        "coordinates": [
+            52.6583274,
+            19.0643438
+        ],
+        "description": "<b style=\"color: black; font-size: 14px;\">Teatr Impresaryjny im.&nbsp;W\u0142odzimierza Ganiazdowskiego</b><br><i style=\"color: gray; font-size: 12px;\">Projekt Sali Widowiskowej</i><p style=\"color: black; font-size: 12px; margin-top: 0;\">Okres: 2006-2007</p>",
+        "faIcon": "music",
         "iconColor": "green"
     },
     {
@@ -1180,19 +1252,19 @@
     },
     {
         "coordinates": [
-            49.6053844,
-            19.9513342
+            52.2031481,
+            21.0198163
         ],
-        "description": "<b style=\"color: black; font-size: 14px;\">Teatr Lalek \"Rabcio\"</b><br><i style=\"color: gray; font-size: 12px;\">Technologia akustyki wn\u0119trz z elementami budowlanej ochrony przed ha\u0142asem</i><p style=\"color: black; font-size: 12px; margin-top: 0;\">Okres: 2017</p>",
+        "description": "<b style=\"color: black; font-size: 14px;\">Teatr Lalek \"Guliwer\"</b><br><i style=\"color: gray; font-size: 12px;\">Modernizacja sali widowiskowej i foyer bocznych</i><p style=\"color: black; font-size: 12px; margin-top: 0;\">Okres: 1998-1999</p>",
         "faIcon": "masks-theater",
         "iconColor": "green"
     },
     {
         "coordinates": [
-            52.2031481,
-            21.0198163
+            49.6053844,
+            19.9513342
         ],
-        "description": "<b style=\"color: black; font-size: 14px;\">Teatr Lalek \"Guliwer\"</b><br><i style=\"color: gray; font-size: 12px;\">Projekt autorski</i><p style=\"color: black; font-size: 12px; margin-top: 0;\"></p>",
+        "description": "<b style=\"color: black; font-size: 14px;\">Teatr Lalek \"Rabcio\"</b><br><i style=\"color: gray; font-size: 12px;\">Technologia akustyki wn\u0119trz z elementami budowlanej ochrony przed ha\u0142asem</i><p style=\"color: black; font-size: 12px; margin-top: 0;\">Okres: 2017 (otwarcie 2019)</p>",
         "faIcon": "masks-theater",
         "iconColor": "green"
     },
@@ -1351,20 +1423,20 @@
     },
     {
         "coordinates": [
-            52.243632,
-            21.010346
-        ],
-        "description": "<b style=\"color: black; font-size: 14px;\">Teatr Wielki - Opera Narodowa</b><br><i style=\"color: gray; font-size: 12px;\">Modernizacja akustyczna widowni Sali im. St. Moniuszki</i><p style=\"color: black; font-size: 12px; margin-top: 0;\"></p>",
-        "faIcon": "masks-theater",
-        "iconColor": "green"
-    },
-    {
-        "coordinates": [
             51.7721112,
             19.4709033
         ],
         "description": "<b style=\"color: black; font-size: 14px;\">Teatr Wielki</b><br><i style=\"color: gray; font-size: 12px;\">Adaptacja cze\u015bci korytarza na sal\u0119 pr\u00f3b orkiestry</i><p style=\"color: black; font-size: 12px; margin-top: 0;\"></p>",
         "faIcon": "music",
+        "iconColor": "green"
+    },
+    {
+        "coordinates": [
+            52.243632,
+            21.010346
+        ],
+        "description": "<b style=\"color: black; font-size: 14px;\">Teatr Wielki - Opera Narodowa</b><br><i style=\"color: gray; font-size: 12px;\">Modernizacja akustyczna widowni Sali im. St. Moniuszki</i><p style=\"color: black; font-size: 12px; margin-top: 0;\"></p>",
+        "faIcon": "masks-theater",
         "iconColor": "green"
     },
     {
@@ -1453,7 +1525,7 @@
             52.24992985,
             20.90278085729572
         ],
-        "description": "<b style=\"color: black; font-size: 14px;\">Wojskowa Akademia Techniczna</b><br><i style=\"color: gray; font-size: 12px;\">Kino, estrada, wyk\u0142ady, konferencje, t\u0142umaczenia</i><p style=\"color: black; font-size: 12px; margin-top: 0;\"></p>",
+        "description": "<b style=\"color: black; font-size: 14px;\">Wojskowa Akademia Techniczna</b><br><i style=\"color: gray; font-size: 12px;\">Kino, estrada, wyk\u0142ady, konferencje, t\u0142umaczenia</i><p style=\"color: black; font-size: 12px; margin-top: 0;\">Okres: 1997-1998</p>",
         "faIcon": "music",
         "iconColor": "green"
     },
@@ -1471,7 +1543,7 @@
             50.2604492,
             19.0323151
         ],
-        "description": "<b style=\"color: black; font-size: 14px;\">Wydzia\u0142 Prawa i Administracji Uniwersytetu Sl\u0105skiego</b><br><i style=\"color: gray; font-size: 12px;\">Projekt sal wyk\u0142adowych</i><p style=\"color: black; font-size: 12px; margin-top: 0;\"></p>",
+        "description": "<b style=\"color: black; font-size: 14px;\">Wydzia\u0142 Prawa i Administracji Uniwersytetu \u015al\u0105skiego</b><br><i style=\"color: gray; font-size: 12px;\">Projekt sal wyk\u0142adowych</i><p style=\"color: black; font-size: 12px; margin-top: 0;\"></p>",
         "faIcon": "music",
         "iconColor": "green"
     },
@@ -1490,15 +1562,6 @@
             21.0121456
         ],
         "description": "<b style=\"color: black; font-size: 14px;\">Wydzia\u0142 Zarz\u0105dzania Uniwersytetu Warszawskiego</b><br><i style=\"color: gray; font-size: 12px;\">Projekt auli</i><p style=\"color: black; font-size: 12px; margin-top: 0;\"></p>",
-        "faIcon": "music",
-        "iconColor": "green"
-    },
-    {
-        "coordinates": [
-            52.2393277,
-            21.0115229
-        ],
-        "description": "<b style=\"color: black; font-size: 14px;\">Galeria Zach\u0119ta</b><br><i style=\"color: gray; font-size: 12px;\">Projekt sali wielofunkcyjnej</i><p style=\"color: black; font-size: 12px; margin-top: 0;\"></p>",
         "faIcon": "music",
         "iconColor": "green"
     },
@@ -1525,7 +1588,7 @@
             52.248898350000005,
             21.008246602657977
         ],
-        "description": "<b style=\"color: black; font-size: 14px;\">Zesp\u00f3\u0142 Pa\u0144stwowych Szk\u00f3\u0142 Muzycznych nr 1 (dawna \"Miodowa\")</b><br><i style=\"color: gray; font-size: 12px;\">Projekt Sali Koncertowej - obecnie Sala Senatu Akademii Teatralnej im. Aleksandra Zelwerowicza w Warszawie</i><p style=\"color: black; font-size: 12px; margin-top: 0;\"></p>",
+        "description": "<b style=\"color: black; font-size: 14px;\">Zesp\u00f3\u0142 Pa\u0144stwowych Szk\u00f3\u0142 Muzycznych nr 1 (dawna \"Miodowa\")</b><br><i style=\"color: gray; font-size: 12px;\">Projekt Sali Koncertowej - obecnie Sala Senatu Akademii Teatralnej im. Aleksandra Zelwerowicza w Warszawie</i><p style=\"color: black; font-size: 12px; margin-top: 0;\">Otwarcie: 2007</p>",
         "faIcon": "graduation-cap",
         "iconColor": "green"
     },
@@ -1572,6 +1635,15 @@
         ],
         "description": "<b style=\"color: black; font-size: 14px;\">Zesp\u00f3\u0142 Szk\u00f3\u0142 nr 59</b><br><i style=\"color: gray; font-size: 12px;\">Projekt sali gimnastycznej</i><p style=\"color: black; font-size: 12px; margin-top: 0;\"></p>",
         "faIcon": "volleyball",
+        "iconColor": "green"
+    },
+    {
+        "coordinates": [
+            52.1496199,
+            21.0467634
+        ],
+        "description": "<b style=\"color: black; font-size: 14px;\">Multikino Ursyn\u00f3w</b><br><i style=\"color: gray; font-size: 12px;\">Projekt sal kinowych</i><p style=\"color: black; font-size: 12px; margin-top: 0;\"></p>",
+        "faIcon": "video",
         "iconColor": "green"
     }
 ]
