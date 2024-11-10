@@ -1,0 +1,530 @@
+[
+    {
+        "coordinates": [
+            52.2337172,
+            21.071432235636493
+        ],
+        "description": "<nobr><b style=\"color: black; font-size: 14px;\">Warszawa</b></nobr><br><nobr>2014-10-28, przejazdem</nobr>",
+        "order": 1
+    },
+    {
+        "coordinates": [
+            52.510885,
+            13.3989367
+        ],
+        "description": "<nobr><b style=\"color: black; font-size: 14px;\">Berlin</b></nobr><br><nobr>2014-10-28, 1 dzie\u0144</nobr>",
+        "order": 2
+    },
+    {
+        "coordinates": [
+            48.8534951,
+            2.3483915
+        ],
+        "description": "<nobr><b style=\"color: black; font-size: 14px;\">Pary\u017c</b></nobr><br><nobr>2014-10-29, przejazdem</nobr>",
+        "order": 3
+    },
+    {
+        "coordinates": [
+            40.7127281,
+            -74.0060152
+        ],
+        "description": "<nobr><b style=\"color: black; font-size: 14px;\">Nowy Jork</b></nobr><br><nobr>2014-10-29, 5 dni</nobr>",
+        "order": 4
+    },
+    {
+        "coordinates": [
+            4.6533816,
+            -74.0836333
+        ],
+        "description": "<nobr><b style=\"color: black; font-size: 14px;\">Bogota</b></nobr><br><nobr>2014-11-03, 4 dni</nobr>",
+        "order": 5
+    },
+    {
+        "coordinates": [
+            10.4265566,
+            -75.5441671
+        ],
+        "description": "<nobr><b style=\"color: black; font-size: 14px;\">Cartagena</b></nobr><br><nobr>2014-11-07, przejazdem</nobr>",
+        "order": 6
+    },
+    {
+        "coordinates": [
+            11.2320944,
+            -74.1950916
+        ],
+        "description": "<nobr><b style=\"color: black; font-size: 14px;\">Santa Marta</b></nobr><br><nobr>2014-11-07, 4 dni</nobr>",
+        "order": 7
+    },
+    {
+        "coordinates": [
+            11.323558049999999,
+            -74.05180741693314
+        ],
+        "description": "<nobr><b style=\"color: black; font-size: 14px;\">Parque Nacional Tayrona</b></nobr><br><nobr>2014-11-11, 3 dni</nobr>",
+        "order": 8
+    },
+    {
+        "coordinates": [
+            12.1978372,
+            -72.1458609
+        ],
+        "description": "<nobr><b style=\"color: black; font-size: 14px;\">Cabo de la vela</b></nobr><br><nobr>2014-11-14, 1 dzie\u0144</nobr>",
+        "order": 9
+    },
+    {
+        "coordinates": [
+            12.4585245,
+            -71.6684934
+        ],
+        "description": "<nobr><b style=\"color: black; font-size: 14px;\">Punta Gallinas</b></nobr><br><nobr>2014-11-15, 1 dzie\u0144</nobr>",
+        "order": 10
+    },
+    {
+        "coordinates": [
+            11.2724168,
+            -73.8459209
+        ],
+        "description": "<nobr><b style=\"color: black; font-size: 14px;\">Coste\u00f1o surf</b></nobr><br><nobr>2014-11-16, 2 dni</nobr>",
+        "order": 11
+    },
+    {
+        "coordinates": [
+            10.9938599,
+            -74.7926118
+        ],
+        "description": "<nobr><b style=\"color: black; font-size: 14px;\">Barranquilla</b></nobr><br><nobr>2014-11-18, przejazdem</nobr>",
+        "order": 12
+    },
+    {
+        "coordinates": [
+            10.7445635,
+            -75.2412659
+        ],
+        "description": "<nobr><b style=\"color: black; font-size: 14px;\">wulkan Totumo</b></nobr><br><nobr>2014-11-18, przejazdem</nobr>",
+        "order": 13
+    },
+    {
+        "coordinates": [
+            10.4265566,
+            -75.5441671
+        ],
+        "description": "<nobr><b style=\"color: black; font-size: 14px;\">Cartagena</b></nobr><br><nobr>2014-11-18, 2 dni</nobr>",
+        "order": 14
+    },
+    {
+        "coordinates": [
+            9.2426345,
+            -74.4262293
+        ],
+        "description": "<nobr><b style=\"color: black; font-size: 14px;\">Mompox</b></nobr><br><nobr>2014-11-20, 1 dzie\u0144</nobr>",
+        "order": 15
+    },
+    {
+        "coordinates": [
+            7.16698415,
+            -73.1047294009737
+        ],
+        "description": "<nobr><b style=\"color: black; font-size: 14px;\">Bucaramanga</b></nobr><br><nobr>2014-11-21, 1 dzie\u0144</nobr>",
+        "order": 16
+    },
+    {
+        "coordinates": [
+            6.5552856,
+            -73.1312353
+        ],
+        "description": "<nobr><b style=\"color: black; font-size: 14px;\">San Gil</b></nobr><br><nobr>2014-11-22, 5 dni</nobr>",
+        "order": 17
+    },
+    {
+        "coordinates": [
+            5.6619877,
+            -73.52838010360202
+        ],
+        "description": "<nobr><b style=\"color: black; font-size: 14px;\">Villa de Leyva</b></nobr><br><nobr>2014-11-27, 1 dzie\u0144</nobr>",
+        "order": 18
+    },
+    {
+        "coordinates": [
+            5.7465836,
+            -73.5821601
+        ],
+        "description": "<nobr><b style=\"color: black; font-size: 14px;\">Paso del Angel</b></nobr><br><nobr>2014-11-28, przejazdem</nobr>",
+        "order": 19
+    },
+    {
+        "coordinates": [
+            5.6619877,
+            -73.52838010360202
+        ],
+        "description": "<nobr><b style=\"color: black; font-size: 14px;\">Villa de Leyva</b></nobr><br><nobr>2014-11-28, 2 dni</nobr>",
+        "order": 20
+    },
+    {
+        "coordinates": [
+            4.6533816,
+            -74.0836333
+        ],
+        "description": "<nobr><b style=\"color: black; font-size: 14px;\">Bogota</b></nobr><br><nobr>2014-11-30, 2 dni</nobr>",
+        "order": 21
+    },
+    {
+        "coordinates": [
+            4.6373012,
+            -75.569799
+        ],
+        "description": "<nobr><b style=\"color: black; font-size: 14px;\">Salento</b></nobr><br><nobr>2014-12-02, 14 dni</nobr>",
+        "order": 22
+    },
+    {
+        "coordinates": [
+            2.4422295,
+            -76.6072368
+        ],
+        "description": "<nobr><b style=\"color: black; font-size: 14px;\">Popayan</b></nobr><br><nobr>2014-12-16, 1 dzie\u0144</nobr>",
+        "order": 23
+    },
+    {
+        "coordinates": [
+            0.8236934,
+            -77.6349296
+        ],
+        "description": "<nobr><b style=\"color: black; font-size: 14px;\">Ipiales</b></nobr><br><nobr>2014-12-17, przejazdem</nobr>",
+        "order": 24
+    },
+    {
+        "coordinates": [
+            0.22276364999999998,
+            -78.24542744351957
+        ],
+        "description": "<nobr><b style=\"color: black; font-size: 14px;\">Otavalo</b></nobr><br><nobr>2014-12-17, 1 dzie\u0144</nobr>",
+        "order": 25
+    },
+    {
+        "coordinates": [
+            -0.2201641,
+            -78.5123274
+        ],
+        "description": "<nobr><b style=\"color: black; font-size: 14px;\">Quito</b></nobr><br><nobr>2014-12-18, 2 dni</nobr>",
+        "order": 26
+    },
+    {
+        "coordinates": [
+            0.5012344,
+            -80.0188775
+        ],
+        "description": "<nobr><b style=\"color: black; font-size: 14px;\">Mompiche</b></nobr><br><nobr>2014-12-20, 2 dni</nobr>",
+        "order": 27
+    },
+    {
+        "coordinates": [
+            -0.3684738,
+            -80.39256189090636
+        ],
+        "description": "<nobr><b style=\"color: black; font-size: 14px;\">Canoa</b></nobr><br><nobr>2014-12-22, 4 dni</nobr>",
+        "order": 28
+    },
+    {
+        "coordinates": [
+            -1.4771438,
+            -80.7667523
+        ],
+        "description": "<nobr><b style=\"color: black; font-size: 14px;\">Machalilla</b></nobr><br><nobr>2014-12-26, 2 dni</nobr>",
+        "order": 29
+    },
+    {
+        "coordinates": [
+            -1.8281651,
+            -80.7529065
+        ],
+        "description": "<nobr><b style=\"color: black; font-size: 14px;\">Monta\u00f1ita</b></nobr><br><nobr>2014-12-28, 5 dni</nobr>",
+        "order": 30
+    },
+    {
+        "coordinates": [
+            -1.6732765,
+            -78.6482479
+        ],
+        "description": "<nobr><b style=\"color: black; font-size: 14px;\">Riobamba</b></nobr><br><nobr>2015-01-02, 3 dni</nobr>",
+        "order": 31
+    },
+    {
+        "coordinates": [
+            -2.8974072,
+            -79.0041726
+        ],
+        "description": "<nobr><b style=\"color: black; font-size: 14px;\">Cuenca</b></nobr><br><nobr>2015-01-05, 3 dni</nobr>",
+        "order": 32
+    },
+    {
+        "coordinates": [
+            -4.1021558,
+            -81.04714294768644
+        ],
+        "description": "<nobr><b style=\"color: black; font-size: 14px;\">Mancora</b></nobr><br><nobr>2015-01-08, 2 dni</nobr>",
+        "order": 33
+    },
+    {
+        "coordinates": [
+            -8.1116778,
+            -79.0287742
+        ],
+        "description": "<nobr><b style=\"color: black; font-size: 14px;\">Trujillo</b></nobr><br><nobr>2015-01-10, 2 dni</nobr>",
+        "order": 34
+    },
+    {
+        "coordinates": [
+            -9.5298511,
+            -77.5289981
+        ],
+        "description": "<nobr><b style=\"color: black; font-size: 14px;\">Huaraz</b></nobr><br><nobr>2015-01-12, 9 dni</nobr>",
+        "order": 35
+    },
+    {
+        "coordinates": [
+            -12.0621065,
+            -77.0365256
+        ],
+        "description": "<nobr><b style=\"color: black; font-size: 14px;\">Lima</b></nobr><br><nobr>2015-01-21, 3 dni</nobr>",
+        "order": 36
+    },
+    {
+        "coordinates": [
+            -11.3550674,
+            -74.5410723
+        ],
+        "description": "<nobr><b style=\"color: black; font-size: 14px;\">Nazca</b></nobr><br><nobr>2015-01-24, 1 dzie\u0144</nobr>",
+        "order": 37
+    },
+    {
+        "coordinates": [
+            -16.3988667,
+            -71.5369607
+        ],
+        "description": "<nobr><b style=\"color: black; font-size: 14px;\">Arequipa</b></nobr><br><nobr>2015-01-25, 1 dzie\u0144</nobr>",
+        "order": 38
+    },
+    {
+        "coordinates": [
+            -15.6220756,
+            -71.9808701
+        ],
+        "description": "<nobr><b style=\"color: black; font-size: 14px;\">Cabanaconde</b></nobr><br><nobr>2015-01-26, 1 dzie\u0144</nobr>",
+        "order": 39
+    },
+    {
+        "coordinates": [
+            -15.8405962,
+            -70.0279512
+        ],
+        "description": "<nobr><b style=\"color: black; font-size: 14px;\">Puno</b></nobr><br><nobr>2015-01-27, przejazdem</nobr>",
+        "order": 40
+    },
+    {
+        "coordinates": [
+            -15.76696175,
+            -69.68886303783182
+        ],
+        "description": "<nobr><b style=\"color: black; font-size: 14px;\">Lago Titicaca</b></nobr><br><nobr>2015-01-27, 3 dni</nobr>",
+        "order": 41
+    },
+    {
+        "coordinates": [
+            -13.5170887,
+            -71.9785356
+        ],
+        "description": "<nobr><b style=\"color: black; font-size: 14px;\">Cusco</b></nobr><br><nobr>2015-01-30, 3 dni</nobr>",
+        "order": 42
+    },
+    {
+        "coordinates": [
+            -13.1558465,
+            -72.5239518
+        ],
+        "description": "<nobr><b style=\"color: black; font-size: 14px;\">Aguas Calientes</b></nobr><br><nobr>2015-02-02, 1 dzie\u0144</nobr>",
+        "order": 43
+    },
+    {
+        "coordinates": [
+            -13.164421950000001,
+            -72.54508510173372
+        ],
+        "description": "<nobr><b style=\"color: black; font-size: 14px;\">Machu Picchu</b></nobr><br><nobr>2015-02-03, przejazdem</nobr>",
+        "order": 44
+    },
+    {
+        "coordinates": [
+            -13.1558465,
+            -72.5239518
+        ],
+        "description": "<nobr><b style=\"color: black; font-size: 14px;\">Aguas Calientes</b></nobr><br><nobr>2015-02-03, 1 dzie\u0144</nobr>",
+        "order": 45
+    },
+    {
+        "coordinates": [
+            -13.5170887,
+            -71.9785356
+        ],
+        "description": "<nobr><b style=\"color: black; font-size: 14px;\">Cusco</b></nobr><br><nobr>2015-02-04, 2 dni</nobr>",
+        "order": 46
+    },
+    {
+        "coordinates": [
+            -12.5938633,
+            -69.1866773
+        ],
+        "description": "<nobr><b style=\"color: black; font-size: 14px;\">Puerto Maldonado</b></nobr><br><nobr>2015-02-06, przejazdem</nobr>",
+        "order": 47
+    },
+    {
+        "coordinates": [
+            -12.6025946,
+            -69.04599291919325
+        ],
+        "description": "<nobr><b style=\"color: black; font-size: 14px;\">Lago Sandoval</b></nobr><br><nobr>2015-02-06, 3 dni</nobr>",
+        "order": 48
+    },
+    {
+        "coordinates": [
+            -12.5938633,
+            -69.1866773
+        ],
+        "description": "<nobr><b style=\"color: black; font-size: 14px;\">Puerto Maldonado</b></nobr><br><nobr>2015-02-09, przejazdem</nobr>",
+        "order": 49
+    },
+    {
+        "coordinates": [
+            -9.9765362,
+            -67.8220778
+        ],
+        "description": "<nobr><b style=\"color: black; font-size: 14px;\">Rio Branco</b></nobr><br><nobr>2015-02-09, 1 dzie\u0144</nobr>",
+        "order": 51
+    },
+    {
+        "coordinates": [
+            -10.3333333,
+            -53.2
+        ],
+        "description": "<nobr><b style=\"color: black; font-size: 14px;\">Brasilia</b></nobr><br><nobr>2015-02-10, przejazdem</nobr>",
+        "order": 52
+    },
+    {
+        "coordinates": [
+            -3.7304512,
+            -38.5217989
+        ],
+        "description": "<nobr><b style=\"color: black; font-size: 14px;\">Fortaleza</b></nobr><br><nobr>2015-02-10, 1 dzie\u0144</nobr>",
+        "order": 53
+    },
+    {
+        "coordinates": [
+            -2.8986278,
+            -40.4506081
+        ],
+        "description": "<nobr><b style=\"color: black; font-size: 14px;\">Jericoacoara</b></nobr><br><nobr>2015-02-11, 15 dni</nobr>",
+        "order": 54
+    },
+    {
+        "coordinates": [
+            -3.7304512,
+            -38.5217989
+        ],
+        "description": "<nobr><b style=\"color: black; font-size: 14px;\">Fortaleza</b></nobr><br><nobr>2015-02-26, 1 dzie\u0144</nobr>",
+        "order": 55
+    },
+    {
+        "coordinates": [
+            -22.9110137,
+            -43.2093727
+        ],
+        "description": "<nobr><b style=\"color: black; font-size: 14px;\">Rio de Janeiro</b></nobr><br><nobr>2015-02-27, 3 dni</nobr>",
+        "order": 56
+    },
+    {
+        "coordinates": [
+            -34.6083696,
+            -58.4440583
+        ],
+        "description": "<nobr><b style=\"color: black; font-size: 14px;\">Buenos Aires</b></nobr><br><nobr>2015-03-02, 20 dni</nobr>",
+        "order": 57
+    },
+    {
+        "coordinates": [
+            -37.34254305,
+            -57.03843588376397
+        ],
+        "description": "<nobr><b style=\"color: black; font-size: 14px;\">Mar Azul</b></nobr><br><nobr>2015-03-22, 5 dni</nobr>",
+        "order": 58
+    },
+    {
+        "coordinates": [
+            -34.6083696,
+            -58.4440583
+        ],
+        "description": "<nobr><b style=\"color: black; font-size: 14px;\">Buenos Aires</b></nobr><br><nobr>2015-03-27, 120 dni</nobr>",
+        "order": 59
+    },
+    {
+        "coordinates": [
+            -41.1334421,
+            -71.3098425
+        ],
+        "description": "<nobr><b style=\"color: black; font-size: 14px;\">Bariloche</b></nobr><br><nobr>2015-07-25, 3 dni</nobr>",
+        "order": 60
+    },
+    {
+        "coordinates": [
+            -42.9173055,
+            -71.3216508
+        ],
+        "description": "<nobr><b style=\"color: black; font-size: 14px;\">Esquel</b></nobr><br><nobr>2015-07-28, 3 dni</nobr>",
+        "order": 61
+    },
+    {
+        "coordinates": [
+            -41.1334421,
+            -71.3098425
+        ],
+        "description": "<nobr><b style=\"color: black; font-size: 14px;\">Bariloche</b></nobr><br><nobr>2015-07-31, 3 dni</nobr>",
+        "order": 62
+    },
+    {
+        "coordinates": [
+            -34.6083696,
+            -58.4440583
+        ],
+        "description": "<nobr><b style=\"color: black; font-size: 14px;\">Buenos Aires</b></nobr><br><nobr>2015-08-03, 125 dni</nobr>",
+        "order": 63
+    },
+    {
+        "coordinates": [
+            -34.1966507,
+            -59.3914341
+        ],
+        "description": "<nobr><b style=\"color: black; font-size: 14px;\">El Omb\u00fa de Areco</b></nobr><br><nobr>2015-12-06, 3 dni</nobr>",
+        "order": 64
+    },
+    {
+        "coordinates": [
+            -34.6083696,
+            -58.4440583
+        ],
+        "description": "<nobr><b style=\"color: black; font-size: 14px;\">Buenos Aires</b></nobr><br><nobr>2015-12-09, 7 dni</nobr>",
+        "order": 65
+    },
+    {
+        "coordinates": [
+            50.1106444,
+            8.6820917
+        ],
+        "description": "<nobr><b style=\"color: black; font-size: 14px;\">Frankfurt nad Menem</b></nobr><br><nobr>2015-12-16, przejazdem</nobr>",
+        "order": 66
+    },
+    {
+        "coordinates": [
+            52.2337172,
+            21.071432235636493
+        ],
+        "description": "<nobr><b style=\"color: black; font-size: 14px;\">Warszawa</b></nobr><br><nobr>2015-12-16, None dni</nobr>",
+        "order": 67
+    }
+]

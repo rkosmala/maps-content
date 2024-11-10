@@ -115,17 +115,17 @@
         @media (max-width: 768px) and (orientation: landscape) {
             .content-mobile-horizontal {
                 font-size: 10px;
-                margin-bottom: 0px;
+                margin-bottom: 0;
             }
         }
 
         #popup-subtitle {
-            margin-top: 0px;
+            margin-top: 0;
             object-fit: contain;
         }
         @media (max-width: 768px) and (orientation: landscape) {
             #popup-subtitle {
-                margin-top: 0px;
+                margin-top: 0;
                 margin-bottom: 4px;
                 font-size: 7px;
             }
@@ -170,8 +170,8 @@
         <!-- Second full-page popup -->
         <div class="popup-overlay" :style="{ display: popup2Visible }" @click="closePopup2">
             <div class="popup-content content content-desktop content-mobile-vertical">
-                <p class="paragraph">Ewa Więckowska-Kosmala, projektantka akustyki, absolwentka Wydziału Elektroniki Politechniki Warszawskiej w klasie prof. Witolda Straszewicza. Podczas swojej długoletniej pracy zawodowej, najpierw w BPBO Budopol a następnie w ramach autorskiej pracowni EwkAkustika zrealizowała projekty akustyczne budowy lub modernizacji ponad 200 wnętrz w całej Polsce i za granicą.</p>
-                <p class="paragraph">Prezentująca te realizacje mapa jest nadal aktualizowana. Jeśli dysponują Państwo dodatkową wiedzą nt dorobku Ewy Więckowskiej-Kosmali lub widzą nieścisłości na tej stronie, prosimy o kontakt: <a href="mailto:robert.kosmala@gmail.com e-mail">robert.kosmala@gmail.com</a></p>
+                <p class="paragraph">Ewa Więckowska-Kosmala, projektantka akustyki, absolwentka Wydziału Elektroniki Politechniki Warszawskiej w klasie prof. Witolda Straszewicza. Podczas swojej długoletniej pracy zawodowej, najpierw w BPBO Budopol, a następnie w ramach autorskiej pracowni EwkAkustika zrealizowała projekty akustyczne budowy lub modernizacji ponad 200 wnętrz w całej Polsce i za granicą.</p>
+                <p class="paragraph">Prezentująca te realizacje mapa jest nadal aktualizowana. Jeśli dysponują Państwo dodatkową wiedzą nt. dorobku Ewy Więckowskiej-Kosmali lub widzą nieścisłości na tej stronie, prosimy o kontakt: <a href="mailto:robert.kosmala@gmail.com e-mail">robert.kosmala@gmail.com</a></p>
             </div>
         </div>
     </div>
@@ -200,8 +200,8 @@
                 // Create a marker cluster group
                 var markers = L.markerClusterGroup({maxClusterRadius: 13});
 
-                // Fetch the marker data from markers.json
-                fetch('markers.json')
+                // Fetch the marker data from markers-ewk.json
+                fetch('markers-ewk.json')
                     .then(function(response) {
                         return response.json();
                     })
